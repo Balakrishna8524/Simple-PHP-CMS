@@ -1,0 +1,23 @@
+
+
+
+/project_folder
+│
+├── config
+│   └── db.php
+│
+├── includes
+│   ├── auth.php
+│   └── functions.php
+│
+├── admin
+│   ├── index.php
+│   ├── login.php
+│   └── logout.php
+│
+├── public
+│   └── index.php
+│
+└── assets
+    └── css
+        └── styles.css
